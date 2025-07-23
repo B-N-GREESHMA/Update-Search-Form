@@ -1,4 +1,4 @@
-# Update Search Form
+# Update/Search Form
 
 This Java Swing application allows users to view, update, and search product details using a graphical interface connected to a MySQL database. The project is built in NetBeans and utilizes JDBC for database operations.
 
